@@ -1,1 +1,1 @@
-This is the JupyterNotebook and Paper assessing the creation and performance of an XGB Regressor predicitng Car prices 
+This is the JupyterNotebook and Paper assessing the creation and performance of an XGB Regressor predicitng Car prices. Note: The CSV was larger than 25MB, so is linked in the paper on Kaggle rather than uploaded here
